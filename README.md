@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sai-krishna-raparthi.<br>👀 I’m interested in Front-end development.<br>🌱 I’m currently learning Bootstrap5.<br>💞️ I’m looking for internships and jobs to put my knowledge, skills to use.<br>😍 I love watching animes and reading mangas.<br>🥱 I'm lazy but smart.<br> 
+👋 Hi, I’m @sai-krishna-raparthi.<br>👀 I’m interested in Front-end development.<br>🌱 I’m currently learning Django.<br>💞️ I’m looking for internships and jobs to put my knowledge, skills to use.<br>😍 I love watching animes and reading mangas.<br>🥱 I'm lazy but smart.<br> 
 
 
 ## 🌐 Socials:
